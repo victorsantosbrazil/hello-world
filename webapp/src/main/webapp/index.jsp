@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Happy Christmas, by Victor Santos  </h1>
+   <h1> Welcome 2023  </h1>
 
   
 </form>
